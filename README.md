@@ -1,2 +1,2 @@
 # myPortfolio
-Desenvolvimento do meu Portfólio web.
+Desenvolvimento do meu portfólio web.
